@@ -21,7 +21,7 @@ Creating a portfolio as a development, design or tech professional is a journey 
 
 ### The aspiration to perfection: an unattainable ideal?
 
-The traditional vision of artistic creation encourages us to pursue perfection from the outset. Every line of code, every element of design should converge towards absolute excellence. However, this dream of perfection can sometimes become a burden, a brake on progress. The relentless quest for perfection can paralyze the creative process, turning creation into an endless pursuit.
+The traditional vision of artistic creation encourages us to pursue perfection from the outset. Every line of code, every element of design should converge towards absolute excellence. However, this dream of perfection can sometimes become a burden, a brake on progress. The relentless quest for perfection can paralyze the creative process, turning creation into an endless pursuit.123
 
 ### The Perfectionism Trap: when the best becomes the enemy of the good
 
